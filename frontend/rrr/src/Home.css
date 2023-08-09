@@ -1,0 +1,83 @@
+.home-info {
+  padding-top: 7rem;
+  display: flex;
+ 
+}
+.home-text {
+  padding: 2rem;
+  color: white;
+  margin-left: 460px;
+  font-size: 18px;
+  /* background-color: azure; */
+}
+.home-text input {
+  height: 55px;
+  width: 30%;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  padding: 0 60px 0 20px;
+  font-size: 18px;
+  box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1);
+}
+.home-text button {
+  height: 48px;
+  width: 82%;
+  outline: none;
+  border: none;
+  font-size: 18px;
+  box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1);
+  background-color: lightgreen;
+  text-align: center !important;
+  margin-left: 0px;
+}
+#homeimg {
+  width: 800px;
+  height: 600px;
+  /* margin-left: 198px; */
+  /* margin-right: 50px; */
+  margin: 50px 2px 20px 60px;
+}
+.iconn {
+ color: red;
+ /* background-color: black; */
+ /* background-color: black; */
+  margin-left: -30px;
+  border-bottom: 0.5px solid black;
+  border-radius: 1px;
+  /* font-size: 70px; */
+}.searchh{
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-around; */
+  /* background-color: aquamarine; */
+}
+.allbooks{
+  background-color: lightgreen;
+  padding: 5px;
+  padding-left: 60px;
+  width: 210px;
+  color: black;
+  border-radius: 0.5rem;
+  text-decoration: none;
+  margin-top: -30px;
+}
+.allbooks:hover {
+  font-size: 18px;
+  color: white;
+}
+#autocomplete{
+  width: 200px;
+  /* margin-right: 10px; */
+}
+.bi{
+  background-image: url("C:\Users\haritheroy\Desktop\desk\rrr-main\rrr-main\frontend\rrr\src\assets\images\background-book.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 500px;
+  opacity: 0.9;
+}
+.bi:hover{
+  opacity: 1;
+}

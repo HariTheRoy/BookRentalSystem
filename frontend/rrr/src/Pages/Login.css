@@ -1,0 +1,66 @@
+#container2 {
+  width: 852px;
+  margin-top: 64px;
+  padding-left: 411px;
+  margin-left: 0px;
+  box-shadow: 3rem;
+}
+#Sih {
+  font-weight: 800;
+  padding-top: 50px;
+}
+#container2 .S1 {
+  color: white;
+  font-weight: bold;
+}
+#snv {
+  display: inline;
+  padding-left: 1px;
+  text-decoration: none;
+  color: yellow;
+}
+.inpT {
+  border-radius: 4px;
+  width: 400px;
+  border-color: white;
+  height: 35px;
+}
+#FPP {
+  font-weight: bold;
+  text-decoration: none;
+  color: yellow;
+  padding: 0px;
+}
+.buttonSig {
+  width: 350px;
+  height: 40px;
+  margin-left: 20px;
+  background-color: lightblue;
+  border-radius: 4px;
+  border-color: lightblue;
+  margin-top: 40px;
+}
+
+#imageLogin {
+  width: 500px;
+  height: 500px;
+  margin-left: 100px;
+}
+.bi{
+  background-image: url("C:\Users\haritheroy\Desktop\desk\rrr-main\rrr-main\frontend\rrr\src\assets\images\background-book.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 500px;
+}
+
+.inpT:hover {
+  box-shadow: 0 0 5pt 0.5pt #d3d3d3;
+}
+.inpT {
+  border-radius: 6px;
+  width: 100%;
+  height: 35px;
+  border: 0.1rem black;
+  padding-left: 20px;
+}

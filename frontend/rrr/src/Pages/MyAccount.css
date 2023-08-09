@@ -1,0 +1,41 @@
+#MyAccount {
+  width: 950px;
+  border: 1px solid #fbf9f9;
+  padding-left: 200px;
+  margin-left: 50px;
+  background-color: #8dbee8;
+  box-shadow: 3rem;
+  padding-top: 20px;
+  margin-top: 20px;
+}
+.MyAccount_input {
+  border-radius: 6px;
+  width: 750px;
+  height: 36px;
+  border: 0.1rem black;
+  padding-left: 20px;
+}
+#MyAccount_flex {
+  display: flex;
+}
+#MyAccount_Head a {
+  font-weight: bold;
+  text-decoration: none;
+  background-color: green;
+  color: white;
+  border-radius: 0.5rem;
+  padding: 6px;
+  margin-left: 1076px;
+}
+#MyAccount_btn {
+  background-color: #7abb5d;
+  border-color: #7abb5d;
+  width: 200px;
+  height: 40px;
+  border-radius: 4px;
+}
+
+#MyAccount_Head a {
+  font-weight: bold;
+  text-decoration: none;
+}
